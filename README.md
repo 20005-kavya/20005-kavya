@@ -8,6 +8,8 @@
 - 
 - 😄 Pronouns: He/Him ...
 - ⚡ Fun fact: ...
+- ## SOCIAL CONNECTION -
+- ![screenshot of a Linkedin logo, added in the Markdown]( linkedin.com/in/kavya-saxena-70459
 
 <!---
 20005-kavya/20005-kavya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
