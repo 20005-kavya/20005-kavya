@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-
 -     Linkedin -
--     Contact no. -
--     Gmail ID - kavya143shourya@gmail.com
+-     Contact no. - 7617722862
+-     Gmail ID - saxenakavya483@gmail.com
 - 
 - 😄 Pronouns: He/Him ...
 - ⚡ Fun fact: ...
