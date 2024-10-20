@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning computer science engineering with DSA in java || Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-
--     Linkedin -
--     Contact no. - 7617722862
--     Gmail ID - saxenakavya483@gmail.com
+-     saxenakavya483@gmail.com
 - 
 - 😄 Pronouns: He/Him ...
 - ⚡ Fun fact: ...
