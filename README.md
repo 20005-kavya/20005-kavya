@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kavya Saxena
 - 👀 I’m interested in software development || Full stack web development || Data analyst and Gen AI enthusiast...
-- 🌱 I’m currently learning computer science engineering with DSA in java || Web development
+- 🌱 I’m currently pursuing computer science engineering, learning DSA in java || Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-
 -     saxenakavya483@gmail.com
