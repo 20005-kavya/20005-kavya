@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing computer science engineering, learning DSA in java || Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-
--     saxenakavya483@gmail.com
+-     saxenakavya03@gmail.com
 -     linkedin.com/in/kavya-saxena-7045902b2
 - 
 - 😄 Pronouns: He/Him ...
